@@ -71,7 +71,3 @@ h1 span {
   font-size: 14px;
   letter-spacing: 0.5px;
 }
-.password:hover {
-  background: #334155;
-  cursor: pointer;
-}
